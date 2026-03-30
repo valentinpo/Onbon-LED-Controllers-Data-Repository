@@ -1,0 +1,74 @@
+[
+  {
+    "name": "OVP-L1",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "1300K пикселей; 1280×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 HDMI",
+      "Видео интерфейсы (выход)": "1 DVI, 2 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-l1",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "available"
+  },
+  {
+    "name": "OVP-M1",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "2600K пикселей; 2560×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 VGA, 1 HDMI, SDI",
+      "Видео интерфейсы (выход)": "1 SDI, 2 DVI, 4 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-m1",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "available"
+  },
+  {
+    "name": "OVP-M1S2",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "1300K пикселей; 1280×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 VGA, 1 HDMI, SDI",
+      "Видео интерфейсы (выход)": "1 SDI, 2 DVI, 4 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-m1s2",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "discontinued"
+  },
+  {
+    "name": "OVP-M1S4",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "2600K пикселей; 2560×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 VGA, 1 HDMI, SDI",
+      "Видео интерфейсы (выход)": "1 SDI, 2 DVI, 4 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-m1s4",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "discontinued"
+  },
+  {
+    "name": "OVP-M2",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "1300K пикселей; 1280×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 VGA, 1 HDMI, 1 SDI",
+      "Видео интерфейсы (выход)": "1 SDI, 1 DVI, 2 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-m2",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "available"
+  },
+  {
+    "name": "OVP-M3",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "2600K пикселей; 2560×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 VGA, 1 HDMI, SDI",
+      "Видео интерфейсы (выход)": "1 SDI, 2 DVI, 4 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-m3",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "available"
+  }
+]

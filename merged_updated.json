@@ -1,0 +1,1854 @@
+[
+  {
+    "name": "BX-5Q1-U-E-75A",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "128 Mb",
+      "Площадь управления": "1024×40 / 848×48 / 640×64",
+      "Хабы": "5×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-5q1a",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "discontinued",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5QL-U-E",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "128 Mb",
+      "Площадь управления": "512×32 / 400×40 / 336×48 / 256×64",
+      "Режим соединения": "USB + Ethernet",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-5ql",
+    "scraped_at": "2026-03-27 13:27:57",
+    "status": "discontinued",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6Q0-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "512 Mb",
+      "Площадь управления": "512×64 / 256×128 / 128×256",
+      "Хабы": "4×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q0",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6Q1-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "512 Mb",
+      "Площадь управления": "1024×64 / 512×128 / 336×192",
+      "Хабы": "4×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q1",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6Q2-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "512 Mb",
+      "Площадь управления": "1024×192 / 768×256 / 512×384",
+      "Хабы": "12×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q2",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6Q2L-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "512 Mb",
+      "Площадь управления": "1024×128 / 672×192 / 512×256",
+      "Хабы": "8×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q2l",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6Q3",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "До 12288×32 / 1024×384",
+      "Особенности": "Поддержка карт расширения",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q3",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6Q3L",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "2048×128 / 1024×256 / 512×512",
+      "Особенности": "Поддержка карт расширения",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q3l",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6QL-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "512 Mb",
+      "Площадь управления": "512×32 / 256×64 / 128×128",
+      "Хабы": "4×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6ql",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-V",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "384×256",
+      "Режим соединения": "Receiving card, 2×50PIN",
+      "Тип устройства": "Принимающая карта",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤1 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-v",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-V75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "384×384",
+      "Хабы": "12×T75",
+      "Тип устройства": "Принимающая карта",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-v75",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-V75L",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "384×256",
+      "Хабы": "8×T75",
+      "Тип устройства": "Принимающая карта",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-v75l",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-VH",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "1280×1024 Max",
+      "Режим соединения": "External sending box",
+      "Тип устройства": "Sending box внешний",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-vh",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-VHE",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "2560×1024 @60Hz",
+      "Режим соединения": "External sending box",
+      "Тип устройства": "Sending box внешний",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-vhe",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-VS",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "1280×1024",
+      "Режим соединения": "Sending card",
+      "Тип устройства": "Отправляющая карта",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-vs",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-VSE",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "1280×1024 @60Hz",
+      "Режим соединения": "External sending box",
+      "Тип устройства": "Sending box внешний",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-vse",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-Y04",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "64K: 512×128",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-y04",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-Y08",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "128K: 512×256",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-y08",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-Y2",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "600K: 1024×600",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-y2",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-Y2L",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "256K: 1024×256",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-y2l",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-Y3",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "1280K: 1280×1024",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-y3",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-YQ1-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "1 Gb",
+      "Площадь управления": "384×384",
+      "Режим соединения": "Ethernet, USB, SD",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq1",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-YQ1",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "1 Gb",
+      "Площадь управления": "384×256",
+      "Режим соединения": "Ethernet, USB, SD",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq1",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-YQ1G-75-WiFi",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "384×384",
+      "Режим соединения": "Ethernet, USB, 3G, WiFi",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq1g",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-YQ1G-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "384×384",
+      "Режим соединения": "Ethernet, USB, 3G",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq1g",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-YQ2A",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "480K: 800×600",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Особенности": "Аппаратное декодирование, 2 видео-зоны",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq2a",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-YQ2AE",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "480K: 800×600",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Особенности": "Аппаратное декодирование, 2 видео-зоны",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq2ae",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-YQ3A",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "1280K: 1280×1024",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Особенности": "Аппаратное декодирование, 2 видео-зоны",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq3a",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-YQ3AE",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "1280K: 1280×1024",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Особенности": "Аппаратное декодирование, 2 видео-зоны",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq3ae",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-YQ4",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "1 Gb",
+      "Площадь управления": "1920K: 1920×1024",
+      "Режим соединения": "Ethernet, USB, SD",
+      "Особенности": "Аппаратное декодирование",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq4",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "discontinued",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-YQ5E",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "4050K: 1920×1080×2",
+      "Режим соединения": "Ethernet, SD, USB, 3G/4G",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq5e",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5A0-WIFI",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "1 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Wi-Fi + Ethernet, USB, RS-232/485",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 2048×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5a0",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5A1-WIFI",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "RS-232/485, Wi-Fi + Ethernet",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 2048×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5a1",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5A2-G",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "GPRS",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 3200×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5a2-g",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5A2-RF",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "RF 433 МГц",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Дальность связи": "До 2000 м",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5a2-rf",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5A2-WIFI",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "RS-232/485, Wi-Fi + Ethernet",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 3200×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5a2",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5A4-RF",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "RF 433 МГц",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Количество рядов и тип хаба": "1 разъем 50PIN",
+      "Дальность связи": "До 2000 м",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5a4-rf",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5A4-WIFI",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "RS-232/485, Wi-Fi + Ethernet",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Количество рядов и тип хаба": "1 разъем 50PIN, антенна 2.4 ГГц",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5a4",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5AL-G",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "GPRS",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 640×16",
+      "Количество рядов и тип хаба": "2 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5al-g",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5AT-G",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "GPRS",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 1024×16",
+      "Количество рядов и тип хаба": "2 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5at-g",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5AT-WIFI",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "RS-232/485, Wi-Fi + Ethernet",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 1024×16",
+      "Количество рядов и тип хаба": "2 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5at",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5E1-E-U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "4 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet, RS232/USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 2048×128 1344×192 1024×256; Два цвета 2048×128 1344×192 1024×256",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5e1",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5E1-S-U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "4 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "RS232/USB ближний беспроводной",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 2048×128 1344×192 1024×256; Два цвета 2048×128 1344×192 1024×256",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5e1",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5E2-E-U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "4 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet, RS232/USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 4096×128; Два цвета 4096×128",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5e2",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5E2-S-U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "4 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "RS232/USB ближний беспроводной",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 4096×128; Два цвета 4096×128",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5e2",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5E3-E-S-U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "4 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "RS232/GPRS/RF/Ethernet/USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 8192×128; Два цвета 8192×128",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5e3-e",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5K1-Serial",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "RS232/RS485/GPRS/RF",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 2048×16 1536×32 1024×48 768×64 512×96 384×128 256×192 192×256; Два цвета 1536×16 768×32 512×48 384×64 256×96 192×128 128×192 96×256",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤1.8 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5k1",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5K2-Serial",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "RS232/RS485/GPRS/RF",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 2048×16 1536×32 1024×48 768×64 512×96 384×128 256×192 192×256; Два цвета 1536×16 768×32 512×48 384×64 256×96 192×128 128×192 96×256",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤1.8 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5k2",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5M1-E-U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 2048×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5m1",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5M2-E-U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 3200×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5m2",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5M3-E-U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 3200×32",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5m3",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5M4-E-U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 2048×64",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5m4",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5MT-E-U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet, USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 1024×16",
+      "Количество рядов и тип хаба": "2 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5mt",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5QS-U-E",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "128 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet, USB, 3GW (CDMA)",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 1024×256; Два цвета 1024×256",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5qs",
+    "scraped_at": "2026-03-27 14:42:24",
+    "status": "discontinued",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5U-U-S",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 512×256",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5u-u-s",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5U0",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 2048×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5u0",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5U1-U-S",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 3200×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5u1-u-s",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5U2-U-S",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 3200×32",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5u2-u-s",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5U3-U-S",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 3200×32",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5u3-u-s",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5U4-U-S",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 2048×64",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5u4-u-s",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5UL",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 640×16",
+      "Количество рядов и тип хаба": "2 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5ul",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-5UT",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 1024×16",
+      "Количество рядов и тип хаба": "2 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-5ut",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6E1",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Напряжение": "5V (3.5V~6V)",
+      "Площадь управления": "Один цвет: 2048×256 1024×512; Два цвета: 2048×128 1024×256; Три цвета: 2048×80 1024×160",
+      "Режим соединения": "Ethernet, RS232, USB, WiFi, RF, 3GPRS, 3GW(CDMA), 4G(CDMA)",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК, Датчик яркости",
+      "Количество рядов и тип хаба": "1 разъем 50PIN",
+      "Тип поддерживаемых модулей": "Все монохромные, двухцветные, трехцветные"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6e1",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6E2",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Напряжение": "5V (3.5V~6V)",
+      "Площадь управления": "Один цвет: 4096×256 2048×512; Два цвета: 4096×128 2048×256; Три цвета: 4096×80 2048×160",
+      "Режим соединения": "Ethernet, RS232, USB, WiFi, RF, 3GPRS, 3GW(CDMA), 4G(CDMA)",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК, Датчик яркости",
+      "Количество рядов и тип хаба": "1 разъем 50PIN",
+      "Тип поддерживаемых модулей": "Все монохромные, двухцветные, трехцветные"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6e2",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6E3",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Напряжение": "5V (3.5V~6V)",
+      "Площадь управления": "Один цвет: 8192×512 4096×1024; Два цвета: 8192×256 4096×512; Три цвета: 8192×160 4096×320",
+      "Режим соединения": "Ethernet, RS232, USB, WiFi, RF, 3GPRS, 3GW(CDMA), 4G(CDMA)",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК, Датчик яркости",
+      "Количество рядов и тип хаба": "2 разъема 50PIN",
+      "Тип поддерживаемых модулей": "Все монохромные, двухцветные, трехцветные"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6e3",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6M",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet, USB, iLedCloud",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 64K: 512×128",
+      "Количество рядов и тип хаба": "8 разъемов T12; 4 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6m",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6M0",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet, USB, iLedCloud",
+      "Тип поддерживаемых модулей": "Все монохромные, двухцветные, трехцветные",
+      "Площадь управления": "Один цвет 32K: 2048×16 (3-цвет)",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08; 2 разъема T75",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6m0",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6M1",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet, USB, iLedCloud",
+      "Тип поддерживаемых модулей": "Все монохромные, двухцветные, трехцветные",
+      "Площадь управления": "Один цвет 64K: 3200×16 (3-цвет)",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08; 2 разъема T75",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6m1",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6M3",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet, USB, iLedCloud",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 128K: 3200×32",
+      "Количество рядов и тип хаба": "8 разъемов T12; 4 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6m3",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6MT-0812",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "Ethernet, USB, iLedCloud",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 16K: 1024×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6mt-0812",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6U",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 64K: 512×128",
+      "Количество рядов и тип хаба": "8 разъемов T12; 4 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6u",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6U0",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные, двухцветные, трехцветные",
+      "Площадь управления": "Один цвет 32K: 2048×16 (3-цвет)",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08; 2 разъема T75",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6u0",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6U1",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные, двухцветные, трехцветные",
+      "Площадь управления": "Один цвет 64K: 3200×16 (3-цвет)",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08; 2 разъема T75",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6u1",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6U3",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 128K: 3200×32",
+      "Количество рядов и тип хаба": "8 разъемов T12; 4 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6u3",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6UT-0812",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 16K: 1024×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6ut-0812",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6W",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "WiFi, USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 64K: 512×128",
+      "Количество рядов и тип хаба": "8 разъемов T12; 4 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6w",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6W0",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "WiFi, USB",
+      "Тип поддерживаемых модулей": "Все монохромные, двухцветные, трехцветные",
+      "Площадь управления": "Один цвет 32K: 2048×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08; 2 разъема T75",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6w0",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6W1",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "WiFi, USB",
+      "Тип поддерживаемых модулей": "Все монохромные, двухцветные, трехцветные",
+      "Площадь управления": "Один цвет 64K: 3200×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08; 2 разъема T75",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6w1",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6W3",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "WiFi, USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 128K: 3200×32",
+      "Количество рядов и тип хаба": "8 разъемов T12; 4 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6w3",
+    "scraped_at": "2026-03-27 14:42:22",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-6WT-0812",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "WiFi, USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 16K: 1024×16",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-6wt-0812",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "BX-DC",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "ИК пульт",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 960×48",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤1 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/bx-dc",
+    "scraped_at": "2026-03-27 14:42:23",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-U2",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (4.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 32K: 2048×16 1024×32; Два цвета 16K: 1024×16 512×32",
+      "Количество рядов и тип хаба": "2 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-u2",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-U2L",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 16K: 1024×16 512×32; Два цвета 16K: 512×32 256×32",
+      "Количество рядов и тип хаба": "2 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-u2l",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-U3",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 64K: 3200×16 2048×32 1344×48; Два цвета 32K: 1600×16 1024×32 672×48",
+      "Количество рядов и тип хаба": "3 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-u3",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-U3L",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 32K: 2048×16 1024×32 672×48; Два цвета 16K: 1024×16 512×32 336×48",
+      "Количество рядов и тип хаба": "3 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-u3l",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-U4",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 100K: 3200×32 2112×48 1600×64; Два цвета 50K: 1600×32 1056×48 800×64",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-u4",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-U4L",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 64K: 3200×16 2048×32 1024×64; Два цвета 32K: 1600×16 1024×32 512×64",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-u4l",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-W2",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB, WiFi",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 32K: 2048×16 1024×32; Два цвета 16K: 1024×16 512×32",
+      "Количество рядов и тип хаба": "2 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-w2",
+    "scraped_at": "2026-03-27 14:42:20",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-W2L",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB, WiFi",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 16K: 1024×16 512×32; Два цвета 16K: 512×32 256×32",
+      "Количество рядов и тип хаба": "2 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-w2l",
+    "scraped_at": "2026-03-27 14:42:20",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-W3",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB, WiFi",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 64K: 3200×16 2048×32 1344×48; Два цвета 32K: 1600×16 1024×32 672×48",
+      "Количество рядов и тип хаба": "3 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-w3",
+    "scraped_at": "2026-03-27 14:42:20",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-W3L",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB, WiFi",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 32K: 2048×16 1024×32 672×48; Два цвета 16K: 1024×16 512×32 336×48",
+      "Количество рядов и тип хаба": "3 разъема T12; 1 разъем T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-w3l",
+    "scraped_at": "2026-03-27 14:42:20",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-W4",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB, WiFi",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 100K: 3200×32 2112×48 1600×64; Два цвета 50K: 1600×32 1056×48 800×64",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-w4",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "X-W4L",
+    "category": "monochrome_dualcolor",
+    "specs": {
+      "Память": "2 Mb",
+      "Напряжение": "5V (3.5V~6V)",
+      "Режим соединения": "USB, WiFi",
+      "Тип поддерживаемых модулей": "Все монохромные и двухцветные",
+      "Площадь управления": "Один цвет 64K: 3200×16 2048×32 1024×64; Два цвета 32K: 1600×16 1024×32 512×64",
+      "Количество рядов и тип хаба": "4 разъема T12; 2 разъема T08",
+      "Поддержка датчиков": "Температура, Температура и влажность, ИК",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-monoxromnyx-i-dvuxcvetnyx-ekranov/x-w4l",
+    "scraped_at": "2026-03-27 14:42:21",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "OVP-L1",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "1300K пикселей; 1280×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 HDMI",
+      "Видео интерфейсы (выход)": "1 DVI, 2 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-l1",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "OVP-M1",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "2600K пикселей; 2560×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 VGA, 1 HDMI, SDI",
+      "Видео интерфейсы (выход)": "1 SDI, 2 DVI, 4 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-m1",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "OVP-M1S2",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "1300K пикселей; 1280×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 VGA, 1 HDMI, SDI",
+      "Видео интерфейсы (выход)": "1 SDI, 2 DVI, 4 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-m1s2",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "discontinued",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "OVP-M1S4",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "2600K пикселей; 2560×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 VGA, 1 HDMI, SDI",
+      "Видео интерфейсы (выход)": "1 SDI, 2 DVI, 4 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-m1s4",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "discontinued",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "OVP-M2",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "1300K пикселей; 1280×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 VGA, 1 HDMI, 1 SDI",
+      "Видео интерфейсы (выход)": "1 SDI, 1 DVI, 2 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-m2",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  },
+  {
+    "name": "OVP-M3",
+    "category": "video_processors",
+    "specs": {
+      "Площадь управления": "2600K пикселей; 2560×1024 @60Hz",
+      "Видео интерфейсы (вход)": "2 CV, 1 DVI, 1 VGA, 1 HDMI, SDI",
+      "Видео интерфейсы (выход)": "1 SDI, 2 DVI, 4 Ethernet"
+    },
+    "url": "http://onbon.ru/product/videoprocessory/ovp-m3",
+    "scraped_at": "2026-03-27 13:19:33",
+    "status": "available",
+    "additional_info": "",
+    "manual_url": "",
+    "photo_url": ""
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "name": "BX-5Q1-U-E-75A",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "128 Mb",
+      "Площадь управления": "1024×40 / 848×48 / 640×64",
+      "Хабы": "5×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-5q1a",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "discontinued"
+  },
+  {
+    "name": "BX-5QL-U-E",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "128 Mb",
+      "Площадь управления": "512×32 / 400×40 / 336×48 / 256×64",
+      "Режим соединения": "USB + Ethernet",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-5ql",
+    "scraped_at": "2026-03-27 13:27:57",
+    "status": "discontinued"
+  },
+  {
+    "name": "BX-6Q0-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "512 Mb",
+      "Площадь управления": "512×64 / 256×128 / 128×256",
+      "Хабы": "4×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q0",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available"
+  },
+  {
+    "name": "BX-6Q1-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "512 Mb",
+      "Площадь управления": "1024×64 / 512×128 / 336×192",
+      "Хабы": "4×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q1",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available"
+  },
+  {
+    "name": "BX-6Q2-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "512 Mb",
+      "Площадь управления": "1024×192 / 768×256 / 512×384",
+      "Хабы": "12×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q2",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available"
+  },
+  {
+    "name": "BX-6Q2L-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "512 Mb",
+      "Площадь управления": "1024×128 / 672×192 / 512×256",
+      "Хабы": "8×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q2l",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available"
+  },
+  {
+    "name": "BX-6Q3",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "До 12288×32 / 1024×384",
+      "Особенности": "Поддержка карт расширения",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q3",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available"
+  },
+  {
+    "name": "BX-6Q3L",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "2048×128 / 1024×256 / 512×512",
+      "Особенности": "Поддержка карт расширения",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6q3l",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available"
+  },
+  {
+    "name": "BX-6QL-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "512 Mb",
+      "Площадь управления": "512×32 / 256×64 / 128×128",
+      "Хабы": "4×T75",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-6ql",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available"
+  },
+  {
+    "name": "BX-V",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "384×256",
+      "Режим соединения": "Receiving card, 2×50PIN",
+      "Тип устройства": "Принимающая карта",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤1 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-v",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available"
+  },
+  {
+    "name": "BX-V75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "384×384",
+      "Хабы": "12×T75",
+      "Тип устройства": "Принимающая карта",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-v75",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available"
+  },
+  {
+    "name": "BX-V75L",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "384×256",
+      "Хабы": "8×T75",
+      "Тип устройства": "Принимающая карта",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-v75l",
+    "scraped_at": "2026-03-27 13:27:56",
+    "status": "available"
+  },
+  {
+    "name": "BX-VH",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "1280×1024 Max",
+      "Режим соединения": "External sending box",
+      "Тип устройства": "Sending box внешний",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-vh",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available"
+  },
+  {
+    "name": "BX-VHE",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "2560×1024 @60Hz",
+      "Режим соединения": "External sending box",
+      "Тип устройства": "Sending box внешний",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-vhe",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available"
+  },
+  {
+    "name": "BX-VS",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "1280×1024",
+      "Режим соединения": "Sending card",
+      "Тип устройства": "Отправляющая карта",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤1.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-vs",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available"
+  },
+  {
+    "name": "BX-VSE",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Площадь управления": "1280×1024 @60Hz",
+      "Режим соединения": "External sending box",
+      "Тип устройства": "Sending box внешний",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-vse",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available"
+  },
+  {
+    "name": "BX-Y04",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "64K: 512×128",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-y04",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available"
+  },
+  {
+    "name": "BX-Y08",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "128K: 512×256",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-y08",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available"
+  },
+  {
+    "name": "BX-Y2",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "600K: 1024×600",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-y2",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available"
+  },
+  {
+    "name": "BX-Y2L",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "256K: 1024×256",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-y2l",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available"
+  },
+  {
+    "name": "BX-Y3",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "1280K: 1280×1024",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-y3",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available"
+  },
+  {
+    "name": "BX-YQ1-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "1 Gb",
+      "Площадь управления": "384×384",
+      "Режим соединения": "Ethernet, USB, SD",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq1",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available"
+  },
+  {
+    "name": "BX-YQ1",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "1 Gb",
+      "Площадь управления": "384×256",
+      "Режим соединения": "Ethernet, USB, SD",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq1",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available"
+  },
+  {
+    "name": "BX-YQ1G-75-WiFi",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "384×384",
+      "Режим соединения": "Ethernet, USB, 3G, WiFi",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq1g",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available"
+  },
+  {
+    "name": "BX-YQ1G-75",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "384×384",
+      "Режим соединения": "Ethernet, USB, 3G",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq1g",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available"
+  },
+  {
+    "name": "BX-YQ2A",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "480K: 800×600",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Особенности": "Аппаратное декодирование, 2 видео-зоны",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq2a",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available"
+  },
+  {
+    "name": "BX-YQ2AE",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "480K: 800×600",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Особенности": "Аппаратное декодирование, 2 видео-зоны",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤2.5 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq2ae",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available"
+  },
+  {
+    "name": "BX-YQ3A",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "1280K: 1280×1024",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Особенности": "Аппаратное декодирование, 2 видео-зоны",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq3a",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available"
+  },
+  {
+    "name": "BX-YQ3AE",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "1280K: 1280×1024",
+      "Режим соединения": "Ethernet, USB, iLEDCloud",
+      "Особенности": "Аппаратное декодирование, 2 видео-зоны",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq3ae",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "available"
+  },
+  {
+    "name": "BX-YQ4",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "1 Gb",
+      "Площадь управления": "1920K: 1920×1024",
+      "Режим соединения": "Ethernet, USB, SD",
+      "Особенности": "Аппаратное декодирование",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq4",
+    "scraped_at": "2026-03-27 13:27:55",
+    "status": "discontinued"
+  },
+  {
+    "name": "BX-YQ5E",
+    "category": "fullcolor_controllers",
+    "specs": {
+      "Память": "4 Gb",
+      "Площадь управления": "4050K: 1920×1080×2",
+      "Режим соединения": "Ethernet, SD, USB, 3G/4G",
+      "Тип поддерживаемых модулей": "Все полноцветные",
+      "Напряжение": "5V (4.5V~6V)",
+      "Максимальная мощность": "≤3 Вт"
+    },
+    "url": "http://onbon.ru/product/kontrollery-dlya-polnocvetnyx-ekranov/bx-yq5e",
+    "scraped_at": "2026-03-27 13:27:54",
+    "status": "available"
+  }
+]
